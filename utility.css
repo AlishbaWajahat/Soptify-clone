@@ -1,0 +1,10 @@
+.invert{
+    filter: invert(1);
+}
+
+.border-radius{
+    border-radius: 10px;
+}
+.flex{
+    display:flex;
+}
